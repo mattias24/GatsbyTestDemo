@@ -16,7 +16,9 @@ const IndexPage = () => (
 <StaticImage alt='Rävar' src='../../images/10419284-red-fox-in.png' width={1100}/>
 <Counter color="green" />
 </div>
-
+<div>
+<StaticImage alt='Rävar' src='../../images/10419284-red-fox-in.png' width={1100}/>
+</div>
 </Layout>
 
 )
